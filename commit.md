@@ -1,1 +1,1 @@
-8 vue,frontend APIs and pages created on 6/20/2017
+6 vue,frontend APIs and pages created on 6/13/2017
